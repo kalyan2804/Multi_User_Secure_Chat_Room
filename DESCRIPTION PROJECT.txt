@@ -1,0 +1,1 @@
+This project is about creating a CHAT ROOM which supports multi user environment using datagram  protocol , where everyone can chat in a single window.This also favours SECURITY through Server Control and the chat is also Secured by ENCRYPTION and DECRYPTION techniques.
